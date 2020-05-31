@@ -39,8 +39,11 @@ La police d'écriture utilisée pour le menu est Pathway Gothic One avec une tai
 Les couleurs utilisées sont les suivantes :
 
 Bleu principal (boutons, liens) : #39d6c0 (#03a48f au hover)
+
 Noir (texte, menu, footer, sections sur fond noir) : #000
+
 Gris clair (fond de certaines sections) : #f7f7f7
+
 Gris foncé (élément du menu sélectionné et séparations entre les éléments du menu) : #232425
 
 *Grille
